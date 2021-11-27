@@ -1,7 +1,7 @@
 <div style="text-align: center">
     <span style="font-size: 3em; font-weight: 700; font-family: Consolas">
         Project: <br>
-        House Prices Regression
+        Ordinary Differential Equation
     </span>
     <br><br>
     <span style="">
@@ -22,11 +22,10 @@
 - `18127266` **Trần Quỳnh Như**([@tqnhu2407](https://github.com/tqnhu2407))
 
 ## Project Title:
-**House Prices Regression**
+**Ordinary Differential Equation**
 
-Link [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
-**Keywords**: `Regression`; `Kaggle Contest`; `Data Analytics`.
+**Keywords**: `Modeling`; `ODE`; `Data Analytics`.
 
 <div style="page-break-after: always"></div>
 
