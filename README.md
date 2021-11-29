@@ -1,14 +1,16 @@
+<!-- Add banner here -->
+![Banner](imgs/banners.gif)
+
 <div style="text-align: center">
     <span style="font-size: 3em; font-weight: 700; font-family: Consolas">
         Project: <br>
-        Ordinary Differential Equation
+        House Price Regression
     </span>
     <br><br>
     <span style="">
         A project for intelligent-data-analytics @ 18CLC-KHMT
     </span>
 </div>
-
 
 <div style="page-break-after: always"></div>
 
@@ -22,10 +24,11 @@
 - `18127266` **Trần Quỳnh Như**([@tqnhu2407](https://github.com/tqnhu2407))
 
 ## Project Title:
-**Ordinary Differential Equation**
 
+**House Price Prediction**
 
-**Keywords**: `Modeling`; `ODE`; `Data Analytics`.
+**Keywords**: `Modeling`; `Regression`; `Data Analytics`.
 
 <div style="page-break-after: always"></div>
 
+![Footer](https://i.imgur.com/PSMD4pJ.png)
